@@ -1,0 +1,3 @@
+Currently my local repo, prior to this newly created file is ahead by one commit.
+Now with the addition of this file my local is not matched with remote.
+I'm going to try `git pull origin main` from my local on `WSL Ubuntu 20.04 on Lenovo K450` that is set with `fast-forward only` and see if this generates an error
